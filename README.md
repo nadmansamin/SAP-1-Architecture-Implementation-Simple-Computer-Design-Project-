@@ -1,6 +1,5 @@
 # SAP-1-Architecture-Implementation-Simple-Computer-Design-Project-
 
-Overview
 This repository contains the schematic, design files, and circuit simulation for an **8-bit Computer System based on the Simple-As-Possible (SAP-1) Architecture**[cite: 7]. Developed as part of the Digital Electronics Lab (EEE 4308) course at the Islamic University of Technology (IUT), the system is built entirely using discrete TTL logic ICs, timers, and static memory in Proteus[cite: 7].
 
 Beyond the base SAP-1 specification, our design extends the hardware capabilities to support **bitwise logic operations (AND, OR)** and **non-sequential control flow (`JMP`)** using an expanded microprogrammed control unit[cite: 7].
