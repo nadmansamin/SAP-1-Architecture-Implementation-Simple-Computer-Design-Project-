@@ -1,0 +1,2 @@
+# SAP-1-Architecture-Implementation-Simple-Computer-Design-Project-
+Designed and implemented the SAP-1 computer architecture for EEE 4308 to understand basic computer operation at the hardware level. Worked with the Program Counter, Instruction Register, Accumulator, and ALU while analyzing the fetch decode execute cycle. Gained practical experience in digital logic, control signals, timing, processor architecture.
